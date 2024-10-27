@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#I ",
+        "IRI",
+        " I "
+    ],
+    "key": {
+        "R": {
+            "item": "justpotionrings:potion_ring"
+        },
+        "I": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "#": {
+            "item": "minecraft:conduit"
+        }
+    },
+    "result": {
+        "id": "justpotionrings:ring",
+        "components": {
+            "mob:effect" : "minecraft:conduit_power"
+        }
+    }
+}

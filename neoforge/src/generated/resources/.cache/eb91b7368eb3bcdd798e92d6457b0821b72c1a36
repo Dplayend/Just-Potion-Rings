@@ -1,0 +1,5 @@
+// 1.21.1	2024-10-27T02:26:44.9269273	Global Loot Modifiers : justpotionrings
+741e835a85a23be73c58fc91d51fd902f1fceb70 data/justpotionrings/loot_modifiers/ring_of_health_boost_from_end_city_treasure.json
+9cc4a4312b4de3d34f5830ae61bbcb8ca2cec62a data/justpotionrings/loot_modifiers/ring_of_luck_from_woodland_mansion.json
+a586779cf0cb61c0e965bea3c945affd449175ab data/justpotionrings/loot_modifiers/ring_of_night_vision_from_desert_pyramid.json
+394f7d2e6e403d248f7ceea5542b967c7ceef0e9 data/neoforge/loot_modifiers/global_loot_modifiers.json

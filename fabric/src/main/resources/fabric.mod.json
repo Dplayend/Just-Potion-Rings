@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "justpotionrings",
+	"version": "1.3",
+	"name": "Just Potion Rings",
+	"description": "Adds Rings that apply potion effects to the player while worn.",
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/just-potion-rings",
+		"sources": "https://github.com/Dplayend/Just-Potion-Rings",
+		"issues": "https://github.com/Dplayend/Just-Potion-Rings/issues"
+	},
+	"license": "CC0-1.0",
+	"icon": "icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [ "com.dplayend.justpotionrings.JustPotionRings" ],
+		"client": [ "com.dplayend.justpotionrings.JustPotionRingsClient" ]
+	},
+	"mixins": [ "justpotionrings.mixins.json" ],
+	"authors": [ "Dplayend" ],
+	"custom": { "modmenu": { "links": { "modmenu.discord": "https://discord.gg/AsFE4T9FbN" } } }
+}

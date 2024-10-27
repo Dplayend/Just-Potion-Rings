@@ -1,0 +1,11 @@
+{
+  "type": "justpotionrings:ring_loot",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/desert_pyramid"
+    }
+  ],
+  "effect": "minecraft:night_vision",
+  "randomChance": 0.2
+}

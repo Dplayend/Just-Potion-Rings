@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I ",
+    "IRI",
+    " I "
+  ],
+  "key": {
+    "R": {
+      "item": "justpotionrings:potion_ring"
+    },
+    "I": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "#": {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  },
+  "result": {
+    "id": "justpotionrings:ring",
+    "components": {
+      "mob:effect" : "minecraft:fire_resistance"
+    }
+  }
+}

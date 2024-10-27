@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I ",
+    "IRI",
+    " I "
+  ],
+  "key": {
+    "R": {
+      "item": "justpotionrings:potion_ring"
+    },
+    "I": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "#": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "result": {
+    "id": "justpotionrings:ring",
+    "components": {
+      "mob:effect" : "minecraft:jump_boost"
+    }
+  }
+}

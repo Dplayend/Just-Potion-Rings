@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I ",
+    "IRI",
+    " I "
+  ],
+  "key": {
+    "R": {
+      "item": "justpotionrings:potion_ring"
+    },
+    "I": {
+      "item": "minecraft:emerald"
+    },
+    "#": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "id": "justpotionrings:ring",
+    "components": {
+      "mob:effect" : "minecraft:haste"
+    }
+  }
+}
