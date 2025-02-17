@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ARA",
+    "AAA"
+  ],
+  "key": {
+    "R": {
+      "item": "justpotionrings:potion_ring"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "justpotionrings:ring",
+    "nbt": {
+      "effect" : "minecraft:saturation"
+    }
+  }
+}
